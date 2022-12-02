@@ -1,0 +1,2 @@
+This is a collection of weekly programming assignments for my SD230 Javascript class. These problems were meant to provide practice with various Javascript
+functions and allow me to practice my problem solving skills utilizing the Javascript language.
